@@ -52,7 +52,7 @@ Provides a high-level summary of the dataset using:
 - State-level stroke rate comparison
 - Geographic distribution
 - Stroke data type distribution
-- Year and state filters
+- Year and State filters
 
 ### 2. Risk & Confidence Interval Analysis
 
@@ -70,7 +70,7 @@ Analyzes variation and uncertainty in stroke-related measurements using:
 Explores population and stroke measurements through:
 
 - Stroke Rate Per 100K
-- Population Distribution
+- Population Distribution by State
 - Stroke Rate by State
 - Age-adjusted vs Crude prevalence
 - Stroke Category Distribution
@@ -108,6 +108,7 @@ The dashboard enables analysis of:
 - **Power BI Desktop**
 - **Power Query**
 - **DAX**
+- **Data Modeling**
 - **Data Visualization**
 - **Interactive Dashboard Design**
 - **Exploratory Data Analysis**
@@ -120,39 +121,19 @@ The dashboard enables analysis of:
 
 ## 💡 Skills Demonstrated
 
-This project demonstrates practical skills in:
-
-- Data cleaning and transformation
-- Data modeling
-- DAX calculations
-- KPI development
-- Interactive visualization
-- Slicers and filters
-- Comparative analysis
-- Geographic visualization
-- Confidence interval analysis
-- Statistical interpretation
-- Dashboard design
-- Data storytelling
-- Analytical problem solving
-
----
-
-## 📂 Project Structure
-
-```text
-Stroke-Data-Analysis-PowerBI/
-│
-├── screenshots/
-│   ├── executive-overview.png
-│   ├── risk-confidence-analysis.png
-│   ├── population-stroke-analysis.png
-│   └── key-insights-recommendations.png
-│
-├── ca2.projectbi.pbix
-├── README.md
-└── .gitignore
-Data Science | Data Analytics | Python | Power BI | Excel
+- Data Cleaning & Transformation
+- Data Modeling
+- DAX Calculations
+- KPI Development
+- Interactive Dashboards
+- Data Visualization
+- Slicers & Filters
+- Comparative Analysis
+- Geographic Analysis
+- Confidence Interval Analysis
+- Statistical Interpretation
+- Data Storytelling
+- Analytical Problem Solving
 
 ---
 
@@ -215,39 +196,22 @@ Uses Power BI's interactive **Decomposition Tree** to explore stroke-related mea
 - Location
 - Data Value Type
 
----
-
-## 🛠️ Tools & Technologies
-
-- **Power BI Desktop**
-- **Power Query**
-- **DAX**
-- **Data Modeling**
-- **Data Visualization**
-- **Exploratory Data Analysis**
-- **Interactive Dashboard Design**
-- **KPI Development**
-- **Geographic Analysis**
-- **Statistical Analysis**
-- **Data Storytelling**
+This enables deeper exploration of the dataset and identification of important patterns.
 
 ---
 
-## 💡 Skills Demonstrated
+## 📂 Project Structure
 
-- Data Cleaning & Transformation
-- Data Modeling
-- DAX Calculations
-- KPI Development
-- Interactive Dashboards
-- Data Visualization
-- Slicers & Filters
-- Comparative Analysis
-- Geographic Analysis
-- Confidence Interval Analysis
-- Statistical Interpretation
-- Data Storytelling
-- Analytical Problem Solving
+**Stroke-Data-Analysis-PowerBI**
+
+- 📁 screenshots
+  - executive-overview.png
+  - risk-confidence-analysis.png
+  - population-stroke-analysis.png
+  - key-insights-recommendations.png
+- 📊 ca2.projectbi.pbix
+- 📝 README.md
+- ⚙️ .gitignore
 
 ---
 
@@ -269,6 +233,10 @@ Python | SQL | Power BI | Excel | Data Analytics
 ### 🔗 GitHub
 
 https://github.com/Rajasekhar-odeti
+
+### 📌 Project Repository
+
+https://github.com/Rajasekhar-odeti/stroke-data-analysis
 
 ---
 
