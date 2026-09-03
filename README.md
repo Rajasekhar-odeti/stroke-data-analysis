@@ -230,14 +230,6 @@ This enables deeper exploration of the dataset and identification of important p
 **Technical Skills:**  
 Python | SQL | Power BI | Excel | Data Analytics
 
-### 🔗 GitHub
-
-https://github.com/Rajasekhar-odeti
-
-### 📌 Project Repository
-
-https://github.com/Rajasekhar-odeti/stroke-data-analysis
-
 ---
 
 ⭐ **If you find this project useful, feel free to explore the repository and connect with me.**
