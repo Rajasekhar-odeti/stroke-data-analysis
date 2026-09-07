@@ -8,19 +8,19 @@ An interactive **Power BI dashboard** designed to analyze stroke-related data ac
 
 ### Executive Overview
 
-![Executive Overview](screenshots/executive-overview.png)
+![Executive Overview](./screenshots/executive-overview.png)
 
 ### Risk & Confidence Interval Analysis
 
-![Risk & Confidence Analysis](screenshots/risk-confidence-analysis.png)
+![Risk & Confidence Analysis](./screenshots/risk-confidence-analysis.png)
 
 ### Population vs Stroke Analysis
 
-![Population vs Stroke Analysis](screenshots/population-stroke-analysis.png)
+![Population vs Stroke Analysis](./screenshots/population-stroke-analysis.png)
 
 ### Key Insights & Recommendations
 
-![Key Insights & Recommendations](screenshots/key-insights-recommendations.png)
+![Key Insights & Recommendations](./screenshots/key-insights-recommendations.png)
 
 ---
 
@@ -221,14 +221,18 @@ This enables deeper exploration of the dataset and identification of important p
 
 ---
 
-## 👨‍💻 Author
+## 👥 Contributors
 
 ### Rajasekhar Reddy
-
-**Aspiring Data Analyst | Data Science Enthusiast**
+**Project Lead | Aspiring Data Analyst | Data Science Enthusiast**
 
 **Technical Skills:**  
 Python | SQL | Power BI | Excel | Data Analytics
+
+### Kummetha Manaswi
+**Contributor | Data Analytics & Power BI**
+
+[GitHub Profile](https://github.com/Kummetha-manaswi)
 
 ---
 
