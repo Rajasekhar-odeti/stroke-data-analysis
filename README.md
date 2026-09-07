@@ -6,8 +6,6 @@ An interactive **Power BI dashboard** designed to analyze stroke-related data ac
 
 ## 📊 Dashboard Preview
 
-## 📊 Dashboard Preview
-
 ### Executive Overview
 
 ![Executive Overview](./Screenshots/executive-overview.png)
