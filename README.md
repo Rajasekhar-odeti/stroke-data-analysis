@@ -6,21 +6,23 @@ An interactive **Power BI dashboard** designed to analyze stroke-related data ac
 
 ## 📊 Dashboard Preview
 
+## 📊 Dashboard Preview
+
 ### Executive Overview
 
-![Executive Overview](./screenshots/executive-overview.png)
+![Executive Overview](./Screenshots/executive-overview.png)
 
 ### Risk & Confidence Interval Analysis
 
-![Risk & Confidence Analysis](./screenshots/risk-confidence-analysis.png)
+![Risk & Confidence Analysis](./Screenshots/risk-confidence-analysis.png)
 
 ### Population vs Stroke Analysis
 
-![Population vs Stroke Analysis](./screenshots/population-stroke-analysis.png)
+![Population vs Stroke Analysis](./Screenshots/population-stroke-analysis.png)
 
 ### Key Insights & Recommendations
 
-![Key Insights & Recommendations](./screenshots/key-insights-recommendations.png)
+![Key Insights & Recommendations](./Screenshots/key-insights-recommendations.png)
 
 ---
 
@@ -204,7 +206,7 @@ This enables deeper exploration of the dataset and identification of important p
 
 **Stroke-Data-Analysis-PowerBI**
 
-- 📁 screenshots
+- 📁 Screenshots
   - executive-overview.png
   - risk-confidence-analysis.png
   - population-stroke-analysis.png
